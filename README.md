@@ -5,7 +5,11 @@ Enter a URL to generate your QR-code.
 
 As a prerequisite, you'll need to have nodeJS and npm installed:
 
-Clone this repo to your local environment.
+Clone this repo to your local environment, open the cloned directory using the following shell command.
+
+```shell
+cd QRcodeGenerator
+```
 
 Install the required node.js modules:
 
